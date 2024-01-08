@@ -6,7 +6,7 @@ export default class WebsiteDocument extends Document {
       <Html lang="en">
         <Head>
           <meta content="width=device-width, initial-scale=1" name="viewport" />
-          <meta name="description" content="Full-stack developer from Nashville, TN." />
+          <meta name="description" content="Java Programmer from Omaha, NE." />
         </Head>
         <body>
           <Main />

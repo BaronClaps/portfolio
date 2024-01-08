@@ -6,7 +6,7 @@ import { Toaster } from "react-hot-toast";
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
-      <title>Polar</title>
+      <title>BaronClaps</title>
       <Component {...pageProps} />
       <Toaster />
     </>

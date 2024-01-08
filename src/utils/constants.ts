@@ -9,9 +9,9 @@ export const RelativeTimeFormatter = new Intl.RelativeTimeFormat("en", {
   style: "long",
 });
 
-export const discordId = "645045981238394902";
+export const discordId = "813531426603270144";
 
-export const dob = new Date("2006-12-15");
+export const dob = new Date("2009-03-31");
 export const age = new Date(Date.now() - dob.getTime()).getUTCFullYear() - 1970;
 export const hasHadBirthdayThisYear =
   new Date().getMonth() >= dob.getMonth() &&

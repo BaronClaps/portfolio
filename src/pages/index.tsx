@@ -133,16 +133,15 @@ export default function Home(props: Props) {
             </svg>
           </motion.h2>
           <motion.p variants={fadeUpInAnimation} className="my-5">
-            <em>Innovating scalable real-time interfaces.</em> {age} y/o,
-            Administrating dedicated systems, building polished user interfaces,
-            and creating beautiful full-stack applications for clients.
+            <em>Extreme Nerd.</em> {age} y/o,
+            Focusing on Programming and CyberSecurity. Lead Programmer of FTC 24122.
           </motion.p>
         </div>
 
         <motion.div variants={fadeUpInAnimation} className="col-span-2">
           <CardHoverEffect className="h-full">
             <Link
-              href="https://github.com/polargh"
+              href="https://github.com/BaronClaps"
               target="_blank"
               rel="noopener noreferrer"
               className={clsx(
@@ -223,7 +222,7 @@ export default function Home(props: Props) {
                     </h2>
 
                     <p className="text-sm">
-                      <em>34 hours of pure electronic bliss.</em>
+                      <em>Pour Out Your Soul to Him.</em>
                     </p>
                   </div>
                 </span>
